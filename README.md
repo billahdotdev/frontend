@@ -1,4 +1,4 @@
-# This is a front-end project example.
+# This is a front-end project example. 
 (continued ...)        
        
   
